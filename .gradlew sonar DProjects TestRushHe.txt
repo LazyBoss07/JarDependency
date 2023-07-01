@@ -1,0 +1,5 @@
+./gradlew sonar D:\Projects Test\Rush\HealthCheckSpringBoot
+  -Dsonar.projectKey=HCSB \
+  -Dsonar.projectName='HCSB' \
+  -Dsonar.host.url=http://localhost:9099 \
+  -Dsonar.token=sqp_244e4daa58ee11dca91159b1fbe9a72b4aa6eef2

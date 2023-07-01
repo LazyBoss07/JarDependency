@@ -1,0 +1,1 @@
+mvn deploy:deploy-file -Durl=file:///D:/Projects Test/LinkerPro/repo/ -Dfile=MainPro-0.0.1-SNAPSHOT.jar -DgroupId=com.example -DartifactId=MainPro -Dpackaging=jar -Dversion=0.0.1-SNAPSHOT
